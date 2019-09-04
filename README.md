@@ -10,9 +10,10 @@ blog template:
 https://templates.netlify.com/template/awake-blog-template-nuxt/
 
 photo template:
-http://www.templatewire.com/focus-free-photography-portfolio-template
-https://html5up.net/uploads/demos/lens/
+http://www.templatewire.com/focus-free-photography-portfolio-template  
+https://html5up.net/uploads/demos/lens/  
 
 main page:
-https://www.styleshout.com/free-templates/hola/
-https://www.styleshout.com/free-templates/ceevee/
+https://www.styleshout.com/free-templates/hola/  
+https://www.styleshout.com/free-templates/ceevee/  
+  
