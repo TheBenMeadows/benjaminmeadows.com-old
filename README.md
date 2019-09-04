@@ -6,14 +6,14 @@ Whether you are starting a company or improving operational processes at a 65-ye
 
 In 2019, Ben was a featured speaker at a national PHCC event in Wisconsin, and was offered a seat on the Executive Steering Committe of the national SCOPE Procurement Summit in Las Vegas.
 
-blog template:
+blog template:  
 https://templates.netlify.com/template/awake-blog-template-nuxt/
 
-photo template:
+photo template:  
 http://www.templatewire.com/focus-free-photography-portfolio-template  
 https://html5up.net/uploads/demos/lens/  
 
-main page:
+main page:  
 https://www.styleshout.com/free-templates/hola/  
 https://www.styleshout.com/free-templates/ceevee/  
   
