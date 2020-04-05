@@ -12,6 +12,7 @@ https://templates.netlify.com/template/awake-blog-template-nuxt/
 photo template:  
 http://www.templatewire.com/focus-free-photography-portfolio-template  
 https://html5up.net/uploads/demos/lens/  
+https://jamstackthemes.dev/theme/gatsby-starter-photo-book/
 
 main page:  
 https://www.styleshout.com/free-templates/hola/  
